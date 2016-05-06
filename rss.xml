@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[AderynDawn]]></title>
         <description><![CDATA[AderynDawn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aderyndawn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 15:41:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 15:41:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aderyndawn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playing minecraft ]]></title>
+            <description><![CDATA[<article><h1>Playing minecraft </h1><p>Une nouvelle image qui présente une magnifique et paisible vie d'un joueur minecraftien. Tout le monde en rêve Twitter : English translation : A new image has a beautiful and peaceful life of a pla...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8af121b5e88115fd3b7d53b518f85113e7ca1856.png"></article>]]></description>
+            <link>http://oldredskin.deviantart.com/art/Peaceful-life-in-Minecraft-294604112</link>
+            <guid isPermaLink="false">6a3b8a62-26b2-4a19-8aa9-33925534f652</guid>
+            <pubDate>Fri, 06 May 2016 15:41:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wish I could afford it!]]></title>
             <description><![CDATA[<article><h1>Wish I could afford it!</h1><p>All five downloadable content pack: The Hidden Secrets Pack The Battle Hardened Pack Tyranny of King Washington: The Infamy Tyranny of King Washington: The Betrayal Tyranny of King Washington: The Redemption 4 bonus single-player missions, adding over an hour of additional gameplay The official Assassin's Creed® III soundtrack (mp3 files) George Washington's notebook (pdf file) The American Colonies, 1775.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b45c245da80886fc1e3c898cf231d5b52acfce7e.jpg"></article>]]></description>
