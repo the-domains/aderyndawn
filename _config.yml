@@ -1,7 +1,7 @@
 name: AderynDawn
 favicon: null
 layout_spectrum: 0.8298216939438134
-typography_spectrum: 0.8439771747216582
+typography_spectrum: 0.48757
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#040507'
+    - '#dbe0e4'
+    - '#30424e'
+    - '#748795'
   brandStrength: 0.892411996377632
   lightness: 0.38949601631611586
   saturation: 0.8556970318313688
