@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AderynDawn]]></title>
+        <description><![CDATA[AderynDawn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 15:41:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wish I could afford it!]]></title>
+            <description><![CDATA[<article><h1>Wish I could afford it!</h1><p>All five downloadable content pack: The Hidden Secrets Pack The Battle Hardened Pack Tyranny of King Washington: The Infamy Tyranny of King Washington: The Betrayal Tyranny of King Washington: The Redemption 4 bonus single-player missions, adding over an hour of additional gameplay The official Assassin's Creed® III soundtrack (mp3 files) George Washington's notebook (pdf file) The American Colonies, 1775.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b45c245da80886fc1e3c898cf231d5b52acfce7e.jpg"></article>]]></description>
+            <link>https://www.humblebundle.com/store/assassins-creed-iii-deluxe-edition</link>
+            <guid isPermaLink="false">94f2721b-a0e2-4d1d-b9ba-fd4bd9f89fc3</guid>
+            <pubDate>Fri, 06 May 2016 15:41:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
