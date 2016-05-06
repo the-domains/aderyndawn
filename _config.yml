@@ -1,28 +1,40 @@
-name: AderynDawn
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48757
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: AderynDawn
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.855697
+  brandStrength: 0.892411996377632
+  lightness: 0.6953405
   brandColors:
     - '#ffffff'
     - '#040507'
     - '#dbe0e4'
     - '#30424e'
     - '#748795'
-  brandStrength: 0.892411996377632
-  lightness: 0.38949601631611586
-  saturation: 0.8556970318313688
-  rhythmicContrast: 0.060338056180626154
-purpose: []
+  rhythmicContrast: 0.06033806
+typography_spectrum: 0.48757
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
