@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AderynDawn]]></title>
-        <description><![CDATA[AderynDawn]]></description>
+        <title><![CDATA[The Queen of Obsessions]]></title>
+        <description><![CDATA[The Queen of Obsessions]]></description>
         <link>https://thegrid.ai/aderyndawn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 10:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 08:44:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aderyndawn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Assassin's Creed - Trailer World Premiere]]></title>
+            <description><![CDATA[<article><h1>Assassin's Creed - Trailer World Premiere</h1><p>This is the trailer for the movie "Assassin's Creed" starring Michael Fassbender and Marion Cotillard, which hits theaters December 21st.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=gfJVoF5ko1Y&amp;feature=share</link>
+            <guid isPermaLink="false">98535c2e-0fe8-4702-9387-af9e6ae36a38</guid>
+            <pubDate>Thu, 12 May 2016 08:43:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What a scarily great actor, his performance in Outlander is truly amazing. Portraying two people, each at one end of the spectrum, it's as if you are looking at a different person who just happens to have the same face - precisely as it should be. Jack and Frank Randall were two men who lived in different times, 200 years apart. What a beautiful performance.]]></title>
             <description><![CDATA[<article><h1>What a scarily great actor, his performance in Outlander is truly amazing. Portraying two people, each at one end of the spectrum, it's as if you are looking at a different person who just happens to have the same face - precisely as it should be. Jack and Frank Randall were two men who lived in different times, 200 years apart. What a beautiful performance.</h1><p>Tobias Menzies, Actor: Casino Royale. Tobias was born in London. He graduated from the Royal Academy of Dramatic Art (RADA) in 1998 and began his acting career in popular UK series such as Foyle's War, Midsomer Murders, and Casualty. He also appeared in the controversial drama A Very Social Secretary.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae50e9e8e6bbf74c1bdf5b17a9143db092d6b717.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://m.imdb.com/title/tt3514324/</link>
             <guid isPermaLink="false">252e2c20-50c9-4195-9368-b6ddba987442</guid>
             <pubDate>Fri, 06 May 2016 15:44:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Last episode was good!]]></title>
-            <description><![CDATA[<article><h1>Last episode was good!</h1><p>The doctors of Seattle Grace Hospital are always fighting for something, from access to cutting-edge surgeries to relationships to patients&#39; lives. And they don&#39;t always win.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d03ea36cd6718773bf5320bdf78301151b455b7c.jpg"></article>]]></description>
-            <link>https://au.tv.yahoo.com/plus7/greys-anatomy/</link>
-            <guid isPermaLink="false">3d679110-f45c-4603-b831-dc78f553024e</guid>
-            <pubDate>Fri, 06 May 2016 15:41:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
