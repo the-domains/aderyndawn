@@ -4,8 +4,15 @@
         <description><![CDATA[The Queen of Obsessions]]></description>
         <link>https://thegrid.ai/aderyndawn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:00:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aderyndawn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Assassin's Creed® Unity - Game & Trailer | Ubisoft (US)]]></title>
+            <description><![CDATA[<article><h1>Assassin's Creed® Unity - Game & Trailer | Ubisoft (US)</h1><p>Everything you need to know about Assassin's Creed Unity. Learn more about Arno and experience the French Revolution as never before.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8f084394a684fea008e9d98db87c44f/noop.jpg?input=https%3A%2F%2Fubistatic9-a.akamaihd.net%2Fresource%2Fen-US%2Fgame%2Fassassins-creed%2Fac%2Fgamescom-1_261694.jpg"></article>]]></description>
+            <link>http://assassinscreed.ubi.com/en-us/games/assassins-creed-unity.aspx</link>
+            <guid isPermaLink="false">336ef798-83bd-466f-83d1-19d938c85a41</guid>
+            <pubDate>Wed, 17 Aug 2016 16:00:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Assassin's Creed | The Leap of Faith [HD] | 20th Century FOX]]></title>
             <description><![CDATA[<article><h1>Assassin's Creed | The Leap of Faith [HD] | 20th Century FOX</h1><p>Through a revolutionary technology that unlocks his genetic memories, Callum Lynch (Michael Fassbender) experiences the adventures of his ancestor, Aguilar, in 15th Century Spain. Callum discovers he is descended from a mysterious secret society, the Assassins, and amasses incredible knowledge and skills to take on the oppressive and powerful Templar organization in the present day.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd3130b4f04aaf28768f3e74d0283330/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FuaXkAwh2pHY%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://m.imdb.com/title/tt2710394/</link>
             <guid isPermaLink="false">ca163265-e727-4496-957e-776223fed60b</guid>
             <pubDate>Fri, 06 May 2016 16:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another one of the shows I'm currently watching - also started reading the book!]]></title>
-            <description><![CDATA[<article><h1>Another one of the shows I'm currently watching - also started reading the book!</h1><p>Costume Designer Terry Dresbach is married to producer Ron Moore. She and Co-producer, Maril Davis, suggested the books to Moore to produce as a TV show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa13e5e4c7c1697a86127b597da49cfb68b0469.jpg"></article>]]></description>
-            <link>http://m.imdb.com/title/tt3006802/</link>
-            <guid isPermaLink="false">05e417b5-d84a-47d5-bd63-3489df063840</guid>
-            <pubDate>Fri, 06 May 2016 15:44:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
