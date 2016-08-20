@@ -1,7 +1,18 @@
+layout_spectrum: 0.1492883418686688
+typography_spectrum: 0.5114308896008879
+color:
+  brandColors:
+    - '#4F6273'
+    - '#1E3847'
+    - '#728CA7'
+    - '#BBE1EC'
+    - '#08090B'
+  brandStrength: 0.10292272409424186
+  lightness: 0.7979054853785783
+  saturation: 0.11733172531239688
+  rhythmicContrast: 0.5861884066835046
 name: AderynDawn
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48757
 collections:
   - index:
       path: /
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#040507'
-    - '#dbe0e4'
-    - '#30424e'
-    - '#748795'
-  brandStrength: 0.125
-  lightness: 0.1875
-  saturation: 0.5625
-  rhythmicContrast: 0.5
 purpose: []
